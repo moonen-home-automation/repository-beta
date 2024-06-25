@@ -1,5 +1,3 @@
 ## What’s changed
 
-## 📚 Documentation
-
-- Update docs @rickmoonex (#13)
+* No changes
