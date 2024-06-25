@@ -2,6 +2,13 @@
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
+Use gRPC calls to control and react to Home Assistant events, entities and more.
+
+## About
+
+gRPC Bridge is a service that accepts incoming gRPC request and passes them on to the Home Assistant WebSocket API.
+This is used by other services and offers a simplified way of communicating with Home Assistant.
+
 ## WARNING! THIS IS A BETA VERSION!
 
 This Home Assistant Add-ons repository contains beta releases of add-ons.
@@ -16,5 +23,5 @@ This repository was created for:
 
 If you are more interested in stable releases of our add-ons:
 
-<https://github.com/hassio-addons/repository>
+<https://github.com/moonen-home-automation/repository>
 
